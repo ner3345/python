@@ -2,3 +2,6 @@
 
 def fun():
 	print 'function'
+
+def func():
+	print 'functions'
